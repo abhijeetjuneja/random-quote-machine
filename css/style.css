@@ -1,0 +1,11 @@
+body{
+  background-color:#FEEC8E;
+}
+.jumbotron {
+   background: rgb(200, 54, 54); /* This is for ie8 and below */
+   background: rgba(200, 54, 54, 0.0); 
+}
+#msgId{
+  font-size:20px;
+  font-style:italic;
+}
